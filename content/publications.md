@@ -9,7 +9,7 @@ Blanca Pijuan-Sala\*, **Jonathan A. Griffiths\***, Carolina Guibentif\*, Tom W. 
 *Nature*, 2019
 [https://doi.org/10.1038/s41586-019-0933-9](https://doi.org/10.1038/s41586-019-0933-9).
 
-I [presented](https://www.youtube.com/watch?v=HxvZv7jt-LU) this work (as a younger verion of myself!) at Biology of Genomes 2018.
+I [presented](https://www.youtube.com/watch?v=HxvZv7jt-LU) this work (as a younger version of myself!) at Biology of Genomes 2018.
 
 **Detection and removal of barcode swapping in single-cell RNA-seq data**<br>
 **Jonathan A. Griffiths**, Arianne C. Richard, Karsten Bach, Aaron T. L. Lun, John C. Marioni
