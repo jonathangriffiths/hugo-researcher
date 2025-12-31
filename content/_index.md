@@ -6,16 +6,14 @@ title: "About"
 
 ## Bio
 
-I am a computational scientist working to positively impact human health.
+I am the CTO at [Cyclana Bio](https://cyclanabio.com), where I lead our computational efforts.
 I am unusually interdisciplinary, having developed deep expertise in biology, functional genomics, human genetics, and machine learning.
 I am most effective when combining these.
-
-In January I will be joining [Cyclana Bio](https://cyclanabio.com) as CTO, where I will lead their computational science.
 
 In the past: 
 * I have led a machine learning team at [Altos Labs](https://altoslabs.com) in its Institute of Computation, developing large language models for epigenetics. 
 * I identified novel targets for therapeutic intervention in SLE at [Genomics](https://genomics.com), and developed complete therapeutic stories for them through the combination of my skills.
-    - I have returned for a short stint at Genomics to build their gene expression platform in [Mystra](https://mystra.com/), and prototype AI agent-based access and analysis of their databases.
+    - In a short return stint at Genomics, I designed and prototyped their gene expression platform for [Mystra](https://mystra.com/), and developed AI agent-based access and analysis of their databases.
 * I consulted for [bit.bio](https://www.bit.bio) in the earliest stages of their existence, where I developed gene expression evidence that helped them win their first research grants.
 * I pioneered the first analyses of large-scale single-cell RNA-sequencing data during my PhD in John Marioni's lab.
 
