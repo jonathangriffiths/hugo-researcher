@@ -7,7 +7,7 @@ title: "About"
 ## Bio
 
 I am the CTO at [Cyclana Bio](https://cyclanabio.com), where I lead our computational efforts.
-This role is very wide-ranging, covering our computational science (-omics and human genetics), alongside more technical and engineering-focused aspects like our cloud and on-premesis infrastructure, our EDC software for observational clinical trials, and all of our data ingest, storage, and processing.
+This role is very wide-ranging, covering our computational science (-omics and human genetics), alongside more technical and engineering-focused aspects like our cloud and on-premises infrastructure, our EDC software for observational clinical trials, and all of our data ingest, storage, and processing.
 
 I am unusually interdisciplinary, having acquired deep expertise in biology, functional genomics, human genetics, and machine learning, all the while developing a robust, engineering mindset.
 I am most effective when working across these areas, and I have found that modern AI tools have made it possible for tiny teams to execute strongly across the whole lot.
